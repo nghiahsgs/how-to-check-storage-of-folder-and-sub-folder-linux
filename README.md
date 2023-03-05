@@ -15,4 +15,9 @@ On the other hand, the du command is used to estimate the disk space usage of a 
 du -sch /folder
 ```
 
+```
+du -sch *
+```
+
+
 In summary, if you want to check the storage of a folder and its subfolders in Linux, you can use the df command to check the total disk space usage of the file system where the folder is located, and use the du command to estimate the disk space usage of the folder and its subdirectories
